@@ -39,7 +39,7 @@ I'm a passionate developer committed to building innovative solutions and contri
 - 🌱 I'm constantly learning and expanding my skills
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Your preferred contact method]
+- 📫 How to reach me: ashleyn4@illinois.edu
 - ⚡ Fun fact: Every commit tells a story!
 
 ---
@@ -49,10 +49,10 @@ I'm a passionate developer committed to building innovative solutions and contri
 <!-- You can customize this section with your actual tech stack -->
 
 ```text
-💻 Languages:    [Add your languages]
-🧰 Frameworks:   [Add your frameworks]
-🔧 Tools:        [Add your tools]
-☁️ Cloud:        [Add your cloud platforms]
+💻 Languages:    Python,Typescript,SQL
+🧰 Frameworks:   LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen.
+🔧 Tools:        Pinecome, ChromaDB, Co-pilot, Claude Code
+☁️ Cloud:        AWS, Azure, GCP
 ```
 
 ---
