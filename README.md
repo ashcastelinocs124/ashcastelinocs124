@@ -1,43 +1,33 @@
 # Hi there, I'm ashcastelino! 👋
 
 <div align="center">
-  
+
 ### 🚀 Welcome to my GitHub Profile!
 
 I'm a passionate developer committed to building innovative solutions and contributing to the open-source community.
-
----
-
-## 📊 My GitHub Journey
-
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_4Hjt9dXD2GuLOFS4XyDciFLAdFBqW_tq?view=active&theme=dark)
-
-<!-- Optional parameters:
-  - view: range | first | active (default: range)
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
-  - width: 400-1200 (default: 800)
--->
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/ght_4Hjt9dXD2GuLOFS4XyDciFLAdFBqW_tq?theme=dark)
-
-<!-- Optional parameters:
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
-  - width: 400-1200 (default: 800)
--->
 
 </div>
 
 ---
 
+## 🚧 Projects I’m working on right now
+
+| Project | What I’m building | Status |
+| --- | --- | --- |
+| **SuperRalph** | Building and iterating on a product from idea → prototype → shipped features. | Active |
+| **ClubClaw** | Developing a project focused on shipping a clean user experience and scalable foundations. | Active |
+| **AutoCart** | Automating workflows and reducing manual effort with pragmatic tooling. | Active |
+| **AI Internal Manager** | Creating an internal AI assistant/manager to help organize tasks, knowledge, and operations. | Active |
+
+> Want to collaborate or have feedback? Open an issue/PR in the project repo or reach out by email.
+
+---
+
 ## 💻 About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and expanding my skills
-- 👯 I'm looking to collaborate on open-source projects
+- 🔭 I’m currently building and shipping across multiple projects (see above)
+- 🌱 I’m constantly learning and expanding my skills
+- 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about anything tech-related
 - 📫 How to reach me: ashleyn4@illinois.edu
 - ⚡ Fun fact: Every commit tells a story!
@@ -46,27 +36,45 @@ I'm a passionate developer committed to building innovative solutions and contri
 
 ## 🛠️ Technologies & Tools
 
-<!-- You can customize this section with your actual tech stack -->
-
 ```text
-💻 Languages:    Python,Typescript,SQL
-🧰 Frameworks:   LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen.
-🔧 Tools:        Pinecome, ChromaDB, Co-pilot, Claude Code
+💻 Languages:    Python, TypeScript, SQL
+🧰 Frameworks:   LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen
+🔧 Tools:        Pinecone, ChromaDB, Copilot, Claude Code
 ☁️ Cloud:        AWS, Azure, GCP
 ```
 
 ---
 
-## 🎯 Current Focus
+## 📊 My GitHub Journey
 
-- 🚧 Building innovative projects
-- 📚 Learning new technologies
-- 🤝 Contributing to open-source
-- 💡 Exploring new ideas
+<div align="center">
+
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_4Hjt9dXD2GuLOFS4XyDciFLAdFBqW_tq?view=active&theme=dark)
+
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/ght_4Hjt9dXD2GuLOFS4XyDciFLAdFBqW_tq?theme=dark)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🚧 Shipping MVPs and iterating quickly
+- 📚 Learning new technologies (especially AI tooling + cloud)
+- 🤝 Contributing to open-source
+- 💡 Exploring new product ideas
+
+---
+
+## 📫 Let’s Connect!
 
 <div align="center">
 
@@ -82,10 +90,9 @@ I'm a passionate developer committed to building innovative solutions and contri
 ---
 
 <div align="center">
-  
+
 ### 💭 Developer Quote of the Day
 
-<!-- You can replace this with a different quote service if you prefer -->
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
