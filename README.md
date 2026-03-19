@@ -12,12 +12,12 @@ I'm a passionate developer committed to building innovative solutions and contri
 
 ## 🚧 Projects I’m working on right now
 
-| Project | What I’m building | Status |
+| Project | What it is | Status |
 | --- | --- | --- |
-| **SuperRalph** | Building and iterating on a product from idea → prototype → shipped features. | Active |
-| **ClubClaw** | Developing a project focused on shipping a clean user experience and scalable foundations. | Active |
-| **AutoCart** | Automating workflows and reducing manual effort with pragmatic tooling. | Active |
-| **AI Internal Manager** | Creating an internal AI assistant/manager to help organize tasks, knowledge, and operations. | Active |
+| **[Super Ralph](https://github.com/ashcastelinocs124/super-ralph)** | Autonomous agentic loop plugin for Claude Code that decomposes a query into tasks, writes tests first, self-debugs when stuck, and learns from every run. | Active |
+| **[ClubClaw](https://github.com/ashcastelinocs124/clubclaw)** | Discord bot for campus student organizations that automates onboarding, channel management, scheduled announcements, and includes an OpenAI-powered assistant. | Active |
+| **[AutoCart](https://github.com/ashcastelinocs124/AutoCart)** | AI agent marketplace on Ethereum: agents register services, discover each other, negotiate agreements, and settle payments via a smart contract with escrow + reputation. | Active |
+| **[NexusAI (AI Internal Manager)](https://github.com/ashcastelinocs124/AI-Internal-Manager)** | Multi-agent internal knowledge manager for onboarding + team analytics, with MCP connectors (Jira/GitHub/Slack) and optional voice onboarding. | Active |
 
 > Want to collaborate or have feedback? Open an issue/PR in the project repo or reach out by email.
 
