@@ -18,7 +18,7 @@ I'm a passionate developer committed to building innovative solutions and contri
 | **[ClubClaw](https://github.com/ashcastelinocs124/clubclaw)** | Discord bot for campus student organizations that automates onboarding, channel management, scheduled announcements, and includes an OpenAI-powered assistant. | Active |
 | **[AutoCart](https://github.com/ashcastelinocs124/AutoCart)** | AI agent marketplace on Ethereum: agents register services, discover each other, negotiate agreements, and settle payments via a smart contract with escrow + reputation. | Active |
 | **[FocusTabs](https://github.com/ashcastelinocs124/FocusTabs)** |An AI-powered Chrome extension that declutters your tabs by understanding your workflow, suggesting what to close, and learning your habits—without ever losing anything. | Active |
-| **[Agentarium](https://github.com/ashcastelinocs124/Agentarium)** | Context Engineering coding setup that helps you setup skills, sub-agents, slash commands and more| Active |
+| **[CasStack](https://github.com/ashcastelinocs124/Agentarium)** | Context Engineering coding setup that helps you setup skills, sub-agents, slash commands and more| Active |
 
 
 > Want to collaborate or have feedback? Open an issue/PR in the project repo or reach out by email.
