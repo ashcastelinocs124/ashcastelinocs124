@@ -1,6 +1,15 @@
 # Hi, I'm ashcastelino — a backend engineer
 
 
+## GitHub Statistics
+
+![ashcastelinocs124's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashcastelinocs124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=94a3b8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcastelinocs124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=94a3b8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashcastelinocs124&theme=tokyonight&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399)
+
+**60** repositories · **69** stars · **2** forks
 ## About Me
 
 Builder @AgenticAI-UIUC |
@@ -21,16 +30,6 @@ AI Developer @gies-ai-experiments
 | [**clubclaw**](https://github.com/ashcastelinocs124/clubclaw) | --- | `TypeScript` | 2 |
 | [**AI-Financial-Analyst**](https://github.com/ashcastelinocs124/AI-Financial-Analyst) | --- | `Python` | 2 |
 | [**mcp-router**](https://github.com/ashcastelinocs124/mcp-router) | --- | `Python` | 2 |
-
-## GitHub Statistics
-
-![ashcastelinocs124's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashcastelinocs124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=94a3b8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcastelinocs124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=94a3b8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashcastelinocs124&theme=tokyonight&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399)
-
-**60** repositories · **69** stars · **2** forks
 
 ### Technologies & Languages
 
