@@ -3,7 +3,7 @@
 
 ## GitHub Statistics
 
-![ashcastelinocs124's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashcastelinocs124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=34d399&text_color=94a3b8)
+![
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashcastelinocs124&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=94a3b8)
 
