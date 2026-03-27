@@ -22,11 +22,10 @@ AI Developer @gies-ai-experiments
 
 | Project | What it is | Tech | Stars |
 | :------ | :--------- | :--- | :---: |
-| [**text-2-sql-agent**](https://github.com/ashcastelinocs124/text-2-sql-agent) | --- | `Python` | 5 |
-| [**master-mcp**](https://github.com/ashcastelinocs124/master-mcp) | --- | `Python` | 3 |
-| [**super-ralph**](https://github.com/ashcastelinocs124/super-ralph) | An Autonomous agentic loop for agents | --- | 2 |
-| [**clubclaw**](https://github.com/ashcastelinocs124/clubclaw) | --- | `TypeScript` | 2 |
-| [**AI-Financial-Analyst**](https://github.com/ashcastelinocs124/AI-Financial-Analyst) | --- | `Python` | 2 |
+| [**text-2-sql-agent**](https://github.com/ashcastelinocs124/text-2-sql-agent) | A multi text-2-agent| `Python` | 5 |
+| [**master-mcp**](https://github.com/ashcastelinocs124/master-mcp) | A MCP that can connect to all mcps that can run locally | `Python` | 3 |
+| [**super-ralph**](https://github.com/ashcastelinocs124/super-ralph) | An Autonomous About
+An AI-powered Chrome extension that declutters your tabs by understanding your workflow, | `Python` | 2 |
 | [**mcp-router**](https://github.com/ashcastelinocs124/mcp-router) | --- | `Python` | 2 |
 
 ### Technologies & Languages
