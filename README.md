@@ -22,7 +22,7 @@ AI Developer @gies-ai-experiments
 
 | Project | What it is | Tech | Stars |
 | :------ | :--------- | :--- | :---: |
-| [**text-2-sql-agent**](https://github.com/ashcastelinocs124/text-2-sql-agent) | A multi text-2-agent| `Python` | 5 |
+| [**text-2-sql-agent**](https://github.com/ashcastelinocs124/text-2-sql-agent) | A multi agent text-2-agent eval system that is capable of evaluating sql output from text-2-sql agents| `Python` | 5 |
 | [**master-mcp**](https://github.com/ashcastelinocs124/master-mcp) | A MCP that can connect to all mcps that can run locally | `Python` | 3 |
 | [**super-ralph**](https://github.com/ashcastelinocs124/super-ralph) | An Autonomous loop that is capable of completing a task with minimal human involvement | `Python` | 3 |
 | [*Focus Tabs**](https://github.com/ashcastelinocs124/super-ralph) | An AI-powered Chrome extension that declutters your tabs by understanding your workflow | `Python` | 3 |
