@@ -1,4 +1,4 @@
-# Hi, I'm ashcastelino — a backend engineer
+# Hi, I'm ashcastelino — just a chill guy!
 
 
 ## GitHub Statistics
