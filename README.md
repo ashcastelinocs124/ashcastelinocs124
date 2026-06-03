@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashcastelinocs124&theme=tokyonight&hide_border=true&background=0d1117&ring=34d399&fire=34d399&currStreakLabel=34d399)
 
-**60** repositories · **69** stars · **2** forks
+**92** repositories · **20** stars · **2** forks
 ## About Me
 
 Builder @AgenticAI-UIUC |
